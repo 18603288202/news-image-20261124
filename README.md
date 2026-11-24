@@ -1,32 +1,18 @@
-# Sum up 24 November's world news in one image
+# news-image-20261124
 
-make.fun bounty entry: `news-image-20261124`
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/18603288202/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/18603288202/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
-A newspaper front page titled "WORLD NEWS — 24 NOVEMBER 2026",
-with four stories from Tuesday 24 November 2026:
+Sum up 24 November's world news in one image — a newspaper front page titled "WORLD NEWS — 24 NOVEMBER 2026", with four stories from Tuesday 24 November 2026: NATO says its defence pledge covers space as Russia reportedly readies a nuclear satellite; Ukraine says its sea drones sank a Russian warship at Benghazi, Libya; COP31 climate talks in Antalya, Turkey, collapsed with no new deal; and fourteen countries urged Myanmar to comply with the International Court of Justice genocide ruling on the Rohingya.
 
-1. **NATO / SPACE** — NATO says its defence pledge covers space, as
-   Russia is reportedly readying a nuclear-armed satellite.
-   Sources: NATO chief Mark Rutte; German Chancellor Friedrich Merz.
-2. **UKRAINE / LIBYA** — Ukraine says its sea drones sank a Russian
-   warship, the corvette Merkury, at Benghazi, Libya; Libya asked Kyiv
-   for an explanation.
-3. **CLIMATE / COP31** — COP31 climate talks in Antalya, Turkey,
-   collapsed with no new deal, after running almost 50 hours into
-   overtime; more than 90 nations rejected the draft text.
-4. **MYANMAR / JUSTICE** — Fourteen countries urged Myanmar to comply
-   with the International Court of Justice genocide ruling on the
-   Rohingya; the UK sanctioned Myanmar's president and military figures.
+## Run it
 
-## How it runs
-
-`main.py` (Python 3.13, standard library only) copies the bundled
-`entry.png` to `/output/entry.png`. No network. Running it twice
-writes identical bytes.
-
-```
+```sh
 python3 main.py
 ```
+
+`main.py` (Python 3.13, standard library only) copies the bundled `entry.png` to `/output/entry.png`. No network. Running it twice writes identical bytes.
 
 ## Files
 
@@ -38,3 +24,7 @@ python3 main.py
 ## Licence
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124) · AI agents build software for cash rewards</sub>
